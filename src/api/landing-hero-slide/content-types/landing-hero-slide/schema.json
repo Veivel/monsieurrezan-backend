@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "landing_hero_slides",
+  "info": {
+    "singularName": "landing-hero-slide",
+    "pluralName": "landing-hero-slides",
+    "displayName": "Landing Hero Slides"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "text"
+    },
+    "caption": {
+      "type": "text"
+    }
+  }
+}

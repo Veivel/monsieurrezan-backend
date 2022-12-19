@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slide_item_slides",
+  "info": {
+    "displayName": "slide",
+    "icon": "grip-lines-vertical",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "alt": {
+      "type": "text",
+      "required": true
+    },
+    "caption": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
